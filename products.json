@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Champagne Soap",
+        "price": 70,
+        "description": "the description"
+    },
+    {
+        "name": "Face Mask",
+        "price": 69.98,
+        "description": "the description"
+    },
+    {
+        "name": "Rooibos & Rosemary",
+        "price": 39.98,
+        "description": "the description"
+    },
+    {
+        "name": "Mint and honey soap",
+        "price": 69.98,
+        "description": "the description"
+    },
+    {
+        "name": "Aloe Soap 175g",
+        "price": 59.98,
+        "description": "the description"
+    },
+    {
+        "name": "Aloe and Rosemary lotion 300ml",
+        "price": 59.98,
+        "description": "the description"
+    },
+    {
+        "name": "Lavender Soap",
+        "price": 39.80,
+        "description": "the description"
+    },
+    {
+        "name": "Miracle Herb",
+        "price": 39.80,
+        "description": "the description"
+    }
+]
